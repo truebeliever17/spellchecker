@@ -1,7 +1,15 @@
-from fastapi import FastAPI
+from pathlib import Path
 
+from fastapi import FastAPI
+from symspellpy import SymSpell, Verbosity
+
+
+DICTIONARY_PATH = Path('/data/kk.txt')
 
 app = FastAPI()
+
+symspell = SymSpell(max_dictionary_edit_distance=2)
+symspell.load_dictionary(DICTIONARY_PATH, term_index=0, count_index=1)
 
 
 @app.get("/")
