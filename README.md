@@ -1,7 +1,7 @@
 # Spell Checker
 [SymSpell](https://github.com/wolfgarbe/SymSpell) based Spell Checker of Kazakh Language. This is my student project for the NLP course.
 
-This is just API with one endpoint, that returns the closest words and the most frequent one. It **DOES NOT** tell if your word is correct or not. It just gives suggestions. You can read more details below in [Examples](https://github.com/truebeliever17/spellchecker/new/master?readme=1#-examples).
+This is just API with one endpoint, that returns the closest words and the most frequent one. It **DOES NOT** tell if your word is correct or not. It just gives suggestions. You can read more details below in [Examples](https://github.com/truebeliever17/spellchecker#-examples).
 
 This project doesn't have any frontend part yet, I think I will add it somewhere in the future because I am just lazy. I am considering doing it using [streamlit](https://streamlit.io/), or maybe just Vue.js. 
 
