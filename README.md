@@ -137,7 +137,6 @@ __Example Output:__
     }
   ]
 }
-Respon
 ```
 
 __Example Input:__
