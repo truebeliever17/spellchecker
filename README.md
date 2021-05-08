@@ -111,7 +111,7 @@ __Example Output:__
 }
 ```
 
-And it shows pydantic validation error if input word is empty or types mismatched:
+And it shows pydantic validation error if input word is empty or types are mismatched:
 
 __Example Input:__
 ```json
