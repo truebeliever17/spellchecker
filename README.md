@@ -11,7 +11,7 @@ The dictionary was taken from [here](https://github.com/hermitdave/FrequencyWord
 
 ## 🔮 Installation
 
-This project requires Python version 3.7+. Or maybe not, I don't know, I just select the minimum version as 3.7 ¯\\_(ツ)\_/¯
+This project requires Python 3.7+. Or maybe not, I don't know, I just selected the minimum version as 3.7 ¯\\_(ツ)\_/¯
 
 Therefore if you have a Python version of less than 3.7 you may see some warning or error messages. So it's better to run it on new versions of Python.
 
